@@ -8,7 +8,8 @@
   "Comment": {
     "body": { "string": {} },
     "post": {
-      "belongsTo": "Post"
+      "belongsTo": "Post", 
+      "addition": "wajahat
     }
   }
 }
