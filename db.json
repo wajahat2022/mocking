@@ -9,7 +9,7 @@
     "body": { "string": {} },
     "post": {
       "belongsTo": "Post", 
-      "addition": "wajahat
+      "addition": "wajahat"
     }
   }
 }
